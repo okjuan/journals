@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Seattle speakeasy
+title: speakeasy
 subtitle: How to pivot your illegal hangout into an upscale, exclusive lounge.
 note: "Inspiration for writing style: Tom Wolfe's 1970 article <em><a href='https://nymag.com/news/features/46170/'>Radical Chic: That Party at Lenny's</a></em>."
 theme: places
-permalink: /seattle-speakeasy
+permalink: /speakeasy
 tags: seattle
 ---
 
